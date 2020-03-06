@@ -1,0 +1,29 @@
+{
+    "description": "<p>This is data and code to create visualizations of a research project at the Max Planck Institute for European Legal History.</p>", 
+    "license": "CC-BY 4.0", 
+    "title": "rg-mpg-de/fupeng: Initial release. Code works, documentation to come later.", 
+    "version": "v1.0", 
+    "upload_type": "software", 
+    "publication_date": "2020-03-06", 
+    "creators": [
+        {
+            "name": "Andreas Wagner"
+        },
+        {
+            "name": "Fupeng Li"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/rg-mpg-de/fupeng/tree/v1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.3699153", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
