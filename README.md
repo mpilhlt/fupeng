@@ -10,5 +10,5 @@ This Network visualization is a digital representation of citations in two Chine
 
 The main visualization uses a *hierarchical edge bundling* visualization (cf. Holten 2006), implemented by the [graph-tool library](https://graph-tool.skewed.de/) (Peixoto 2014). Our own routines that are putting this library to work can be seen in the Jupyter notebook [Fupeng_Li.ipynb](./Fupeng_Li.ipynb).
 
-Holten, Danny (2006): "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data", in: IEEE Transactions on Visualization and Computer Graphics, Vol. 12, No. 5, pp. 741-748. DOI: [10.1109/TVCG.2006.147](https://doi.org/10.1109/TVCG.2006.147); <http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Holten06.pdf>
-Peixoto, Tiago P. (2014): "The graph-tool python library", in: Figshare (2014) DOI: [10.6084/m9.figshare.1164194](https://dx.doi.org/10.6084/m9.figshare.1164194)
+* Holten, Danny (2006): "Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data", in: IEEE Transactions on Visualization and Computer Graphics, Vol. 12, No. 5, pp. 741-748. DOI: [10.1109/TVCG.2006.147](https://doi.org/10.1109/TVCG.2006.147); <http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Holten06.pdf>
+* Peixoto, Tiago P. (2014): "The graph-tool python library", in: Figshare (2014) DOI: [10.6084/m9.figshare.1164194](https://dx.doi.org/10.6084/m9.figshare.1164194)
